@@ -11,6 +11,8 @@ IBM Professional Certificate in Data Science Capstone Project
  * M3L1: Interactive Visual Analytics with Folium Lab
  * M3L3: Interactive Dashboard with Plotly Lab
 ## Module 4
- * M4L1: Complete the Machine Learning Prediction Lab
+ * M4L1: Complete the Machine Learning Prediction Lab (Decision Tree max_features: "Log2")
+ * M4L2: Complete the Machine Learning Prediction Lab (original Decision Tree max_features: "Auto", thresholds, plots)
 ## Module 5
+ * Presentation
 
