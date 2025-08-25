@@ -1,5 +1,5 @@
 # IBMCapstoneProject
-IBM Professional Certificate in Data Science Capstone Project
+IBM Professional Certificate in Data Science Capstone Project: 9 x Labs and 1 x Presentation
 ## Module 1
  * M1L1: Complete the Data Collection API Lab
  * M1L2: Complete the Data Collection with WebScraping Lab
@@ -12,7 +12,7 @@ IBM Professional Certificate in Data Science Capstone Project
  * M3L3: Interactive Dashboard with Plotly Lab
 ## Module 4
  * M4L1: Complete the Machine Learning Prediction Lab (Decision Tree max_features: "Log2")
- * M4L2: Complete the Machine Learning Prediction Lab (original Decision Tree max_features: "Auto", thresholds, plots)
+ * M4L2: Complete the Machine Learning Prediction Lab (original Decision Tree max_features: "Auto", preditct_proba threshold changes, extra plots)
 ## Module 5
  * Presentation PDF
 
