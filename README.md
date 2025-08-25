@@ -14,5 +14,5 @@ IBM Professional Certificate in Data Science Capstone Project
  * M4L1: Complete the Machine Learning Prediction Lab (Decision Tree max_features: "Log2")
  * M4L2: Complete the Machine Learning Prediction Lab (original Decision Tree max_features: "Auto", thresholds, plots)
 ## Module 5
- * Presentation
+ * Presentation PDF
 
