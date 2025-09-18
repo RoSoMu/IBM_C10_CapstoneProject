@@ -1,5 +1,5 @@
 # IBMCapstoneProject
-IBM Professional Certificate in Data Science Capstone Project: 9 x Labs, 8 x Screenshots and 1 x PDF
+IBM Professional Certificate in Data Science Capstone Project: 9 x Labs, 15 x Screenshots and 2 x PDF
 ## Module 1
  * M1L1: Data Collection API
  * M1L2: Data Collection with WebScraping
@@ -18,6 +18,14 @@ IBM Professional Certificate in Data Science Capstone Project: 9 x Labs, 8 x Scr
  * M3L1_Folium_Screenshot_7: Distance Coastline
  * M3L1_Folium_Screenshot_8: Distance Coastline + Polyline
  * M3L2: Interactive Dashboard with Plotly
+ * M3L2_Dash_Screenshot_1: Skeleton Test
+ * M3L2_Dash_Screenshot_2: Dropdown All Sites
+ * M3L2_Dash_Screenshot_3: Dropdown One Site
+ * M3L2_Dash_Screenshot_4: Payload Range All Sites
+ * M3L2_Dash_Screenshot_5: Payload Range One Site
+ * M3L2_Dash_Screenshot_6: Complete All Sites
+ * M3L2_Dash_Screenshot_7: Complete One Site
+ * M3L2_Dash_Instructions PDF
 ## Module 4
  * M4L1: Machine Learning Prediction (Decision Tree where max_features = "Log2")
  * M4L2: Machine Learning Prediction Lab (original Decision Tree where max_features= "Auto" + preditct_proba threshold changes + extra plots)
